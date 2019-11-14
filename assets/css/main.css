@@ -1,0 +1,130 @@
+.firstscreen{
+    display: flex;
+    justify-content: space-around;
+}
+.error {
+    color:red;
+
+}
+.v1{
+
+    width: 350px ;
+    align-items: center;
+    padding: 4%;
+
+}
+.logo {
+    height: 60px;
+    width: 115px;
+}
+.blue{
+    background-color: cadetblue;
+}
+.secondscreen{
+    display: flex;
+    justify-content: space-around;
+}
+h3 {
+    margin-top:60px;
+}
+#accueil{
+
+    width: 414px;
+    height: 736px ;
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 15%;
+    background-image: url("Artboard.png");
+    background-repeat: no-repeat;
+    background-size: 416px 736px;
+    justify-content: center;
+    align-items: center;
+}
+.fakescreen{
+
+    background-image: url("Artboard.png");
+    background-repeat: no-repeat;
+    background-size: 416px 736px;
+    width: 414px;
+    height: 736px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    justify-content: space-around !important;
+}
+#wrapper{
+    width: 414px;
+    height: 736px ;
+    display: flex;
+    flex-direction: column;
+
+    background-image: url("Artboard.png");
+    background-repeat: no-repeat;
+    background-size: 416px 736px;
+
+    /*background-image: url("Artboard.png");*/
+
+
+}
+
+#deuxieme {
+    width: 414px;
+    height: 736px ;
+    display: flex;
+    flex-direction: column;
+    background-image: url("Artboard.png");
+    background-repeat: no-repeat;
+    background-size: 416px 736px;
+    justify-content: center;
+}
+
+.section{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.first{
+    height: 100px;
+}
+#signal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-self: center;
+    align-items: center;
+    background-color: rgb(28, 28, 28);
+ width: 100px;
+    height: 200px;
+
+
+}
+.feux{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-top: black solid 5px;
+    background-color: #393939;
+}
+
+img {
+    height: 105%;
+}
+.taille {
+    font-size: 48px;
+    font-weight: bolder;
+}
+#phone{
+    color: green;
+}
+.third{
+    flex-direction: column;
+    align-items: center;
+}
+.fa-long-arrow-alt-up{
+    display: none;
+}
+
